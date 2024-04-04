@@ -1,2 +1,2 @@
 # ICLR2024_CCAI
-Paper accepted as a part of CCAI workshop as a part of ICLR 2024
+Paper accepted as a part of CCAI workshop at ICLR 2024.
